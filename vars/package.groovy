@@ -1,5 +1,5 @@
-import org.utils.Helper 
+import org.utils.helper 
 
 def call() {
-  echo "Timestamp from Helper: ${Helper.getTimestamp()}"
+  echo "Timestamp from helper: ${helper.getTimestamp()}"
 }
