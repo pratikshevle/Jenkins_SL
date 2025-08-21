@@ -1,3 +1,3 @@
 def call() {
-  echo "This is current time `date`"
+  echo "This is current time ${new date()}"
 }
